@@ -6,7 +6,7 @@ Welcome to the Squawk Biz support page! If you encounter any issues, have questi
 
 You can contact our support team at the following email address:
 
-- Email: macawsw@macawsw.com
+- Email: squawk-biz@macawsw.com
 
 Please feel free to send us an email regarding any problems or concerns you may have related to the Squawk Biz app. Our team will get back to you as soon as possible to provide the necessary support and guidance.
 
