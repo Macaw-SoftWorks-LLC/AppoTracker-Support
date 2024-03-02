@@ -1,12 +1,12 @@
-# Mawk - Support
+# AppoTracker - Support
 
-Welcome to the Mawk support page! If you encounter any issues, have questions, or need assistance with our iOS app, we're here to help. Please don't hesitate to reach out to us.
+Welcome to the AppoTracker support page! If you encounter any issues, have questions, or need assistance with our iOS app, we're here to help. Please don't hesitate to reach out to us.
 
 ## Contact Information
 
 You can contact our support team at the following email address:
 
-- Email: mawk-support@macawsw.com
+- Email: appotracker-support@macawsw.com
 
 Please feel free to send us an email regarding any problems or concerns you may have related to the Squawk Biz app. Our team will get back to you as soon as possible to provide the necessary support and guidance.
 
@@ -20,7 +20,7 @@ To ensure a smooth support process, please provide the following information whe
 
 Our support team will prioritize your request and work diligently to resolve your issue with the Squawk Biz app.
 
-Thank you for using Mawk. We appreciate your support, and we look forward to assisting you.
+Thank you for using AppoTracker. We appreciate your support, and we look forward to assisting you.
 
 Best regards,
-The Mawk Support Team
+The AppoTracker Support Team
